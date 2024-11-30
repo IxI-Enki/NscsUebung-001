@@ -7,6 +7,14 @@
 
 ---
 
+<div align="center">
+  
+![pingTest_Animated](./img/pingTest.png)
+
+</div>
+
+---
+
 # IP-config - Tabs:
 
 - ## R102:
@@ -45,5 +53,4 @@
 
 ---
 # Ping - Test:
-  > ![pingTest_Animated](./img/pingTest.png)
   > ![pingTest](./img/ping_from_dynamicIP.png)
