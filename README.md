@@ -1,6 +1,6 @@
 ###### <p align="center"> NscsUebung-001 </p>
 
-# Statisches Routing
+# <p align="center"> Statisches Routing </p>
 ## Two static + One dynamic Network
 
 ![angabe](./img/angabe.png)
