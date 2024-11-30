@@ -27,6 +27,21 @@
   > ![Server0](./img/Server0_ipconfig.png)
 
 ---
+# Port - Forwarding:
 
+- ## RouterA:
+  > ![RouterA](./img/RouterA_portforward.png)
+
+- ## RouterB:
+  > ![RouterB](./img/RouterB_portforward.png)
+
+- ## RouterC:
+  > ![RouterC](./img/RouterC_portforward.png)
+
+---
+# DHCP Server - Service:
+> ![dhcp service](./img/Server0_DHCPservice.png)
+
+---
 # Ping - Test:
   > ![pingTest](./img/ping_from_dynamicIP.png)
