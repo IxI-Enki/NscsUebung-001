@@ -2,7 +2,7 @@
 
 # <p align="center"> MIXED Routing </p>
 
-# Ⅰ
+# Ⅰ )
 ## 1 Main-Net (100) + Three Subnets (10,11,12) + DHCP, DNS & HTTP Server
 
 <div align="center">
