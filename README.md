@@ -2,17 +2,20 @@
 
 # <p align="center"> MIXED Routing </p>
 
+# Ⅰ
 ## 1 Main-Net (100) + Three Subnets (10,11,12) + DHCP, DNS & HTTP Server
 
 <div align="center">
   
-![pingTest_Animated](./img/DHCP_DNS_HTTP.png)
+![DHCP_DNS_HTTPTest](./img/DHCP_DNS_HTTP.png)
 
 </div>
+
 
  
 ---
 
+# Ⅱ ) 
 ## Two static + One dynamic Network
 
 ![angabe](./img/angabe.png)
