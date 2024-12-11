@@ -1,6 +1,18 @@
 ###### <p align="center"> NscsUebung-001 </p>
 
-# <p align="center"> Statisches Routing </p>
+# <p align="center"> MIXED Routing </p>
+
+## 1 Main-Net (100) + Three Subnets (10,11,12) + DHCP, DNS & HTTP Server
+
+<div align="center">
+  
+![pingTest_Animated](./img/DHCP_DNS_HTTP.png)
+
+</div>
+
+ 
+---
+
 ## Two static + One dynamic Network
 
 ![angabe](./img/angabe.png)
