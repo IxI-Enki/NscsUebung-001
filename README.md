@@ -11,7 +11,13 @@
 
 </div>
 
+<details>
+  <summary>
+    click for details of Ⅱ
+  </summary>
 
+
+</details>
  
 ---
 
@@ -30,6 +36,10 @@
 
 ---
 
+<details>
+  <summary>
+    click for details of Ⅱ
+  </summary>
 # IP-config - Tabs:
 
 - ## R102:
@@ -69,3 +79,7 @@
 ---
 # Ping - Test:
   > ![pingTest](./img/ping_from_dynamicIP.png)
+
+
+</details>
+
