@@ -12,9 +12,7 @@
 </div>
 
 <details>
-  <summary>
-    click for details of Ⅱ
-  </summary>
+  <summary> click for details of Ⅰ </summary>
 
 
 </details>
@@ -40,6 +38,7 @@
   <summary>
     click for details of Ⅱ
   </summary>
+  
 # IP-config - Tabs:
 
 - ## R102:
