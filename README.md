@@ -14,7 +14,8 @@
 <details>
   <summary> click for details of Ⅰ </summary>
 
-
+  - full [Packet Tracer File](https://github.com/IxI-Enki/NscsUebung-001/blob/master/Uebung_Test_DHCP_DNS_HTTP.pkt)
+   
 </details>
  
 ---
